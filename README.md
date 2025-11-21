@@ -45,17 +45,6 @@ Bu proje, **PowerPulse Web Application** için gerçekleştirdiğim uçtan uca m
 
 ---
 
-## 🔄 QA Süreç Akışı (STLC)
-
-```mermaid
-flowchart TD
-    A[Exploratory Testing] --> B[Test Case Design]
-    B --> C[Test Execution]
-    C --> D[Bug Reporting]
-    D --> E[Re-testing]
-    E --> F[Regression Testing]
-    F --> G[API Validation]
-
 📄 Deliverables (Projede Yer Alan Çıktılar)
 
 ✔ TestRail test case export
