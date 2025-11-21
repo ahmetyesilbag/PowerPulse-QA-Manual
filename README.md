@@ -42,9 +42,6 @@ Bu proje, **PowerPulse Web Application** için gerçekleştirdiğim uçtan uca m
 
 ---
 
-
----
-
 📄 Deliverables (Projede Yer Alan Çıktılar)
 
 ✔ TestRail test case export
@@ -54,6 +51,8 @@ Bu proje, **PowerPulse Web Application** için gerçekleştirdiğim uçtan uca m
 ✔ API test koleksiyonu (Postman)
 
 ✔ Test yürütme ekran görüntüleri
+
+---
 
 👨‍💻 Hakkımda
 
